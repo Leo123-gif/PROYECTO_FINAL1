@@ -18,6 +18,11 @@ public class Proyecto_final1 extends javax.swing.JFrame {
     public Proyecto_final1() {
         initComponents();
     }
+    
+    public class static remontar()
+    {
+        
+    }
 
     /**
      * This method is called from within the constructor to initialize the form.
