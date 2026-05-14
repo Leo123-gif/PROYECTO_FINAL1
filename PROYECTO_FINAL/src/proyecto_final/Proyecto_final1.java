@@ -18,11 +18,7 @@ public class Proyecto_final1 extends javax.swing.JFrame {
     public Proyecto_final1() {
         initComponents();
     }
-    
-    public class static remontar()
-    {
-        
-    }
+
 
     /**
      * This method is called from within the constructor to initialize the form.
@@ -72,6 +68,8 @@ public class Proyecto_final1 extends javax.swing.JFrame {
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(() -> new Proyecto_final1().setVisible(true));
+        
+        int numero = 0;
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
